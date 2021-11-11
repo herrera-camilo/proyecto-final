@@ -44,7 +44,7 @@ body{
 }
 
 #wave{
-margin-top: -100px;
+margin-top: -10px;
 }
 
 #wave-4{
@@ -216,8 +216,16 @@ margin-top: -100px;
     margin-top: 5%;
 }
 
+
+
+#servicios{
+    margin-top: 15%
+}
+
+
+
 #titulo-team{
-    margin-top: 15%;
+    margin-top: 25%;
     margin-bottom: 150px;
     font-weight: bold;
 }
@@ -261,6 +269,7 @@ margin-top: -100px;
 
 #ubicacion .mapa{
     border-radius: 50px;
+    margin-bottom: 10%;
 }
 
 
